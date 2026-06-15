@@ -10,7 +10,7 @@ This repo currently focuses on the **frontend experience** (sample/demo data) an
  <br>Homepage<br><br>
  <hr>
  <img src=".\src\app\images\Sign In (2).png" alt="Image" style="width: 80%;"/>
- <br>Sign In<br><br>
+ <br>Login<br><br>
  <hr>
  <img src=".\src\app\images\Admin Dashboard (2).png" alt="Image" style="width: 80%;"/>
  <br>Admin Dashboard <br><br>
