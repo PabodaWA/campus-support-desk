@@ -3,6 +3,32 @@
 Role-based campus portal UI built with Next.js (App Router) + Tailwind CSS.
 This repo currently focuses on the **frontend experience** (sample/demo data) and basic route-level guards.
 
+## 📸 Screenshots
+
+<div align="center">
+ <img src=".\src\app\images\UniHub home page.png" alt="Image" style="width: 80%;"/>
+ <br>Homepage<br><br>
+ <hr>
+ <img src=".\src\app\images\Sign In (2).png" alt="Image" style="width: 80%;"/>
+ <br>Sign In<br><br>
+ <hr>
+ <img src=".\src\app\images\Admin Dashboard (2).png" alt="Image" style="width: 80%;"/>
+ <br>Admin Dashboard <br><br>
+ <hr>
+ <img src=".\src\app\images\Unihub Technician Dashboard.png" alt="Image" style="width: 80%;"/>
+ <br>Tecnician Dashboard <br><br>
+ <hr>
+ <img src=".\src\app\images\Student Dashbord.png" alt="Image" style="width: 80%;"/>
+ <br>Student Dashboard <br><br>
+ <hr>
+ <img src=".\src\app\images\Screenshot 2026-06-16 004518.png" alt="Image" style="width: 80%;"/>
+ <hr>
+ <img src=".\src\app\images\Screenshot 2026-06-16 004551.png" alt="Image" style="width: 80%;"/>
+ <hr>
+ <img src=".\src\app\images\Screenshot 2026-06-16 004620.png" alt="Image" style="width: 80%;"/>
+ <hr>
+</div>
+
 ## Requirements
 
 - Node.js 20+ recommended
@@ -106,3 +132,91 @@ Guard logic lives in `src/components/auth/RoleGuard.tsx`.
   - `src/app/api` API routes
 - `src/components` UI + layout components
 - `src/lib` helpers (RBAC, nav config, etc.)
+## 👨‍💻 Team Members
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/PabodaWA">
+        <img src="https://github.com/PabodaWA.png" width="100px;" alt="Paboda Medhani"/>
+        <br />
+        <sub><b>Paboda Medhani</b></sub>
+      </a>
+      <br />
+      <sub>Full Stack Developer</sub>
+      <br />
+      <a href="https://github.com/PabodaWA">GitHub</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/LakviduUpasara">
+        <img src="https://github.com/LakviduUpasara.png" width="100px;" alt="Lakvidu Rathnayake"/>
+        <br />
+        <sub><b>Lakvidu Rathnayake</b></sub>
+      </a>
+      <br />
+      <sub>Full Stack Developer</sub>
+      <br />
+      <a href="https://github.com/LakviduUpasara">GitHub</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/hiruniNwijesinghe">
+        <img src="https://github.com/hiruniNwijesinghe.png" width="100px;" alt="Hiruni Wijesinghe"/>
+        <br />
+        <sub><b>Hiruni Wijesinghe</b></sub>
+      </a>
+      <br />
+      <sub>Full Stack Developer</sub>
+      <br />
+      <a href="https://github.com/hiruniNwijesinghe">GitHub</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/SupunKalharaJayasinghe">
+        <img src="https://github.com/SupunKalharaJayasinghe.png" width="100px;" alt="Supun Kalhara Jayasinghe"/>
+        <br />
+        <sub><b>Supun Kalhara Jayasinghe</b></sub>
+      </a>
+      <br />
+      <sub>Full Stack Developer</sub>
+      <br />
+      <a href="https://github.com/SupunKalharaJayasinghe">GitHub</a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <sub><i>Want to contribute? Check our <a href="#-contributing">Contributing Guidelines</a></i></sub>
+</p>
+
+---
+## 🤝 Contributing
+
+We welcome contributions! Please follow these steps:
+
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+### Code Style Guidelines
+
+- Use ESLint and Prettier configurations provided
+- Write meaningful commit messages
+- Add comments for complex logic
+- Update documentation for new features
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## 🙏 Acknowledgments
+
+- All contributors who help improve this project
+
+---
+
+Made with ❤️ by the UniHub Team
