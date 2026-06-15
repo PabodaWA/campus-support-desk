@@ -27,6 +27,8 @@ This repo currently focuses on the **frontend experience** (sample/demo data) an
  <hr>
  <img src=".\src\app\images\Screenshot 2026-06-16 004620.png" alt="Image" style="width: 80%;"/>
  <hr>
+ <img src=".\src\app\images\Community Page.png" alt="Image" style="width: 80%;"/>
+ <hr>
 </div>
 
 ## Requirements
