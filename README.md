@@ -16,7 +16,7 @@ This repo currently focuses on the **frontend experience** (sample/demo data) an
  <br>Admin Dashboard <br><br>
  <hr>
  <img src=".\src\app\images\Unihub Technician Dashboard.png" alt="Image" style="width: 80%;"/>
- <br>Tecnician Dashboard <br><br>
+ <br>Community Admin Dashboard <br><br>
  <hr>
  <img src=".\src\app\images\Student Dashbord.png" alt="Image" style="width: 80%;"/>
  <br>Student Dashboard <br><br>
